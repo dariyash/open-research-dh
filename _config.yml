@@ -1,0 +1,17 @@
+# Jupyter Book configuration
+title: Open Research in the Digital Humanities
+author: Humanities Data Science & Methodology (HDSM) and DisLab — HERMES project
+logo: ""
+only_build_toc_files: true
+
+execute:
+  execute_notebooks: "off"        # notebooks need an API key / network — don't run at build time
+
+html:
+  use_issues_button: false
+  use_repository_button: false
+
+parse:
+  myst_enable_extensions:
+    - colon_fence
+    - deflist

@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "Open Research in the Digital Humanities (Open Learnware Package)"
+message: "If you use these materials, please cite them."
+type: dataset
+authors:
+  - family-names: Povroznik
+    given-names: Nadezhda
+    affiliation: "Humanities Data Science and Methodology (HDSM), Technical University of Darmstadt"
+keywords:
+  - open research
+  - digital humanities
+  - cultural heritage data
+  - FAIR
+  - reproducibility
+license: CC-BY-4.0

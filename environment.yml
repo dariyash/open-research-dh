@@ -1,0 +1,11 @@
+name: open-research-dh
+channels: [conda-forge]
+dependencies:
+  - python>=3.10
+  - pandas>=2.0
+  - matplotlib>=3.7
+  - requests>=2.31
+  - jupyterlab>=4.0
+  - pip
+  - pip:
+      - jupyter-book>=1.0,<2
