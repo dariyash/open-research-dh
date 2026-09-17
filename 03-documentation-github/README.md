@@ -71,7 +71,7 @@ Find one published open project (e.g. from the GLAM Workbench) and describe:
 
 ## Watch
 - [Reusing GLAM collections (Gustavo Candela)](https://clip.place/w/rVeo3U87Acns1JfXyxcxWK)
-- [Tutorial: obtaining and building a dataset](https://clip.place/w/36p3UJ92DwaAozf4L5Q9um)
+- [Tutorial: GitHub & Version Control](https://clip.place/w/36p3UJ92DwaAozf4L5Q9um)
 
 ---
 **Previous:** [Module 2 · Open Data](../02-open-data/README.md) · **Next:** [Module 4 · Documenting AI](../04-documenting-ai/README.md)
