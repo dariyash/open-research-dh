@@ -2,7 +2,7 @@
 
 ## Watch
 - [Reusing GLAM collections (Gustavo Candela)](https://clip.place/w/rVeo3U87Acns1JfXyxcxWK)
-- [Tutorial: obtaining and building a dataset](https://clip.place/w/36p3UJ92DwaAozf4L5Q9um)
+- [Tutorial: GitHub and Version Control](https://clip.place/w/36p3UJ92DwaAozf4L5Q9um)
 
 ## Slides
 - [Candela presentation slides](slides_Gustavo_Candela.pdf)
