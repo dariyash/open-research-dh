@@ -41,6 +41,37 @@ reuse open materials. **No prior coding experience is required**, where code app
 with AI and learn to check it.
 
 ---
+## Getting started
+
+### Prerequisites
+- A laptop (Windows, macOS, or Linux).
+- **[Anaconda Navigator](https://www.anaconda.com/products/navigator)**: Python, Jupyter Notebook, JupyterLab.
+- A free **[GitHub](https://github.com)** account (set up in Module 2).
+- *Optional* free API keys: **[Europeana](https://pro.europeana.eu/pages/get-api-keys)** for live data
+ (the notebooks also run without one, using the shipped sample). Wikidata (Module 6) needs no key.
+
+### Run the notebooks
+```bash
+# 1. Get the course
+git clone https://github.com/dariyash/open-research-dh.git
+cd open-research-dh
+
+# 2. Open in Jupyter (via Anaconda Navigator > JupyterLab), then run, in order:
+# 03-open-data/01_build_dataset.ipynb
+# 04-documenting-ai/02_obtain_and_filter.ipynb
+# 05-data-analysis/03_data_analysis.ipynb
+# 06-data-enhancement/04_wikidata_enhancement.ipynb (optional)
+```
+Each notebook needs only `pandas`, `matplotlib`, and `requests` (all included with Anaconda).
+
+### Build the course as a website (Jupyter Book)
+```bash
+pip install "jupyter-book<2"
+jupyter-book build .
+# open _build/html/index.html
+```
+
+---
 
 ## Course structure
 
@@ -167,40 +198,6 @@ Publishing outputs openly, earning a DOI, and checking the result against FAIR.
 
 ### 9 · Course Wrap-up
 A recap of the full open-research arc, what the course did not cover, and the certificate of attendance.
-
----
-
-## Getting started
-
-### Prerequisites
-- A laptop (Windows, macOS, or Linux).
-- **[Anaconda Navigator](https://www.anaconda.com/products/navigator)**: Python, Jupyter Notebook, JupyterLab.
-- A free **[GitHub](https://github.com)** account (set up in Module 2).
-- *Optional* free API keys: **[Europeana](https://pro.europeana.eu/pages/get-api-keys)** for live data
- (the notebooks also run without one, using the shipped sample). Wikidata (Module 6) needs no key.
-
-### Run the notebooks
-```bash
-# 1. Get the course
-git clone https://github.com/dariyash/open-research-dh.git
-cd open-research-dh
-
-# 2. Open in Jupyter (via Anaconda Navigator > JupyterLab), then run, in order:
-# 03-open-data/01_build_dataset.ipynb
-# 04-documenting-ai/02_obtain_and_filter.ipynb
-# 05-data-analysis/03_data_analysis.ipynb
-# 06-data-enhancement/04_wikidata_enhancement.ipynb (optional)
-```
-Each notebook needs only `pandas`, `matplotlib`, and `requests` (all included with Anaconda).
-
-### Build the course as a website (Jupyter Book)
-```bash
-pip install jupyter-book
-jupyter-book build .
-# open _build/html/index.html
-```
-
----
 
 ## Repository layout
 
