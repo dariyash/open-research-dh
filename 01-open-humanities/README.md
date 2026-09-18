@@ -1,5 +1,13 @@
 # Module 1 · Open Humanities
 
+## Watch
+- [Open Research & Open Humanities (Nadezhda Povroznik)](https://clip.place/w/tSktamVHLAPTraEau1AAFG)
+- [Open to Critical Interpretation (Andrea Wallace)](https://clip.place/w/iqntkKS2xQMFhzd1ggejTs)
+
+## Slides
+- [Povroznik webinar slides](slides_Nadezhda_Povroznik.pdf)
+- [Wallace webinar slides](slides_Andrea_Wallace.pdf)
+
 ## Aim
 Establish the principles of open research and the humanities-specific context in which they apply.
 
@@ -35,7 +43,6 @@ rights-aware openness (CARE) belong side by side.
 - **Webinar: "Open to Critical Interpretation"** (Andrea Wallace, University of Warwick / GLAM-E Lab).
  *Emerging legal issues, opportunities and unknowns in open movements and the humanities, how
  intellectual-property law shapes what "open" can mean.*
-- **Materials:** slides from the webinars.
 
 ## Guided task
 Watch both webinars and note, in a few sentences each:
@@ -48,13 +55,12 @@ Watch both webinars and note, in a few sentences each:
 - Can you give one reason openness in the humanities differs from the natural sciences?
 - Can you name one risk of treating "open" as automatically good?
 
-## Watch
-- [Open Research & Open Humanities (Nadezhda Povroznik)](https://clip.place/w/tSktamVHLAPTraEau1AAFG)
-- [Open to Critical Interpretation (Andrea Wallace)](https://clip.place/w/iqntkKS2xQMFhzd1ggejTs)
-
-## Slides
-- [Povroznik webinar slides](slides_Nadezhda_Povroznik.pdf)
-- [Wallace webinar slides](slides_Andrea_Wallace.pdf)
+## Recommended Reading
+- Arthur, Paul Longley, and Lydia Hearn. "Toward Open Research: A Narrative Review of the Challenges and Opportunities for Open Humanities." *Journal of Communication* 71, no. 5 (2021): 827–53. https://doi.org/10.1093/joc/jqab028.
+- Arthur, Paul Longley, and Lydia Hearn. *Open Scholarship in the Humanities.* Bloomsbury. https://www.bloomsbury.com/au/open-scholarship-in-the-humanities-9781350232273/.
+- Knöchelmann, Marcel. "Open Science in the Humanities, or: Open Humanities?" *Publications* 7, no. 4 (2019): 65. https://doi.org/10.3390/publications7040065.
+- Ma, Rongqian. "Toward an Open Humanities Data: Current States, Challenges, and Cases." In *Intelligent Computing for Cultural Heritage: Global Achievements and China's Innovations.* Routledge, 2024. https://doi.org/10.4324/9781032707211-2.
+- UNESCO. *Recommendation on Open Science.* Paris: UNESCO. https://www.unesco.org/en/open-science/about.
 
 ---
-**Previous:** [Orientation](../00-introduction/orientation.md) · **Next:** [Module 2 · Open Data](../02-open-data/README.md)
+**Previous:** [Orientation](../00-introduction/orientation.md) · **Next:** [Module 2 · Documenting as a Systemic Practice](../02-documentation-github/README.md)

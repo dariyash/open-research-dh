@@ -1,5 +1,8 @@
 # Module 4 · Documenting AI
 
+## Watch
+- [Documenting AI (theory)](https://clip.place/w/uHxioL2trhPoyVEUuggeNJ)
+
 ## Aim
 Address AI as a **tool within the research workflow**, used deliberately, checked carefully, and
 documented openly.
@@ -12,7 +15,7 @@ By the end of this module you will be able to:
 - Identify and articulate risks related to bias, hallucination, privacy, copyright, and reproducibility.
 
 ## Theory, AI as a documented tool
-In Module 2 you already ran code that was generated with an AI assistant. That is fine, **if** you can
+In Module 3 you already ran code that was generated with an AI assistant. That is fine, **if** you can
 say where it came from and you have checked it. This module makes that explicit.
 
 If you are a complete beginner at coding, you can use **vibe-coding**: describe your goal in plain words,
@@ -38,7 +41,7 @@ This course cannot cover the whole of prompt engineering, look for additional so
 
 ## Hands-on tutorial
 **Notebook: [`02_obtain_and_filter.ipynb`](02_obtain_and_filter.ipynb)**, filter the dataset from
-Module 2 so it is fit for analysis. It uses AI-drafted filtering code that you *check*, and it makes a
+Module 3 so it is fit for analysis. It uses AI-drafted filtering code that you *check*, and it makes a
 **documented decision** (setting aside a reproduction index rather than deleting it silently).
 
 ## Task
@@ -51,8 +54,13 @@ used, the model, what the code does, what you changed after checking it, and one
 - Give two ways AI-generated code can go wrong, and how you'd catch each.
 - What must you record to make AI use in your project transparent?
 
-## Watch
-- [Documenting AI (theory)](https://clip.place/w/uHxioL2trhPoyVEUuggeNJ)
+## Recommended Reading
+- Oberbichler, Sarah, and Cindarella Petz. "Working Paper: Implementing Generative AI in the Historical Studies." Zenodo, version 1, 25 February 2025. https://doi.org/10.5281/zenodo.14924737.
+- Petz, Cindarella. *Augmented Historical Research in the Age of AI.* Slides to invited talk, Research Seminar "Humanities Data Science & Methodology," TU Darmstadt, 9 June 2026. https://doi.org/10.5281/zenodo.20622919.
+- Ma, Rongqian, Xuhan Zhang, and Adrian Wisnicki. "Disclosing Generative AI Use in Digital Humanities Research." *Proceedings of the Association for Information Science and Technology* 62, no. 1 (2025): 1572–74. https://doi.org/10.1002/pra2.1471.
+- Cwik, Jan Christopher. "Disclosure Is Not Documentation: An Open Science Framework for Documenting Generative AI Use in Scholarly Research and Publication Workflows." *Research Integrity and Peer Review* 11 (August 2026): 47. https://doi.org/10.1186/s41073-026-00245-8.
+- Wills, Simon, Sanson T. S. Poon, Arianna Salili-James, and Ben Scott. "The Use of Generative AI for Coding in Academia." *Methods in Ecology and Evolution* 15, no. 12 (2024): 2189–91. https://doi.org/10.1111/2041-210X.14454.
+- Feng, Yebo, and Yang Liu. "A Visionary Look at Vibe Researching." Version 2. Preprint, arXiv, 4 September 2026. https://doi.org/10.48550/ARXIV.2604.00945.
 
 ---
-**Previous:** [Module 3 · Documentation & GitHub](../03-documentation-github/README.md) · **Next:** [Module 5 · Data Analysis](../05-data-analysis/README.md)
+**Previous:** [Module 3 · Resources for the Research: Open Data](../03-open-data/README.md) · **Next:** [Module 5 · Data Analysis](../05-data-analysis/README.md)

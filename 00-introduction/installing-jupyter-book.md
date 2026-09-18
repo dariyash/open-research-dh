@@ -64,7 +64,7 @@ This is the interactive way, you open and run the notebooks yourself.
  `http://localhost:8888/…`. JupyterLab usually opens in your browser automatically; if it doesn't,
  **copy that `localhost` address and paste it into your browser.**
 3. In the file panel on the left, open the module folders and run the notebooks **in order**:
- - `02-open-data/01_build_dataset.ipynb`
+ - `03-open-data/01_build_dataset.ipynb`
  - `04-documenting-ai/02_obtain_and_filter.ipynb`
  - `05-data-analysis/03_data_analysis.ipynb`
  - `06-data-enhancement/04_wikidata_enhancement.ipynb` *(optional)*

@@ -1,7 +1,9 @@
 # Module 8 · Open Publishing & FAIR Principles
 
-> **This module includes a step-by-step tutorial:**
-> [`zenodo_tutorial.md`](zenodo_tutorial.md). A video version is planned.
+## Watch
+- [Open Publishing and FAIR (theory)](https://clip.place/w/kVnCPHDRXmjjj1v735ScGd)
+
+> **Step-by-step tutorial:** [`zenodo_tutorial.md`](zenodo_tutorial.md). A video version is planned.
 
 ## Aim
 Prepare the project for public release: publish outputs openly, and check and improve their alignment with the **FAIR** principles.
@@ -49,8 +51,9 @@ The full step-by-step guide is in [`zenodo_tutorial.md`](zenodo_tutorial.md). In
 ## Materials
 - ARDC FAIR Data Self-Assessment Tool, https://ardc.edu.au/resource/fair-data-self-assessment-tool/
 
-## Watch
-- [Open Publishing and FAIR (theory)](https://clip.place/w/kVnCPHDRXmjjj1v735ScGd)
+## Recommended Reading
+- Tóth-Czifra, Erzsébet. "The Risk of Losing the Thick Description: Data Management Challenges Faced by the Arts and Humanities in the Evolving FAIR Data Ecosystem." In *Digital Technology and the Practices of Humanities Research*, edited by Jennifer Edmond, 235–66. 2020. https://doi.org/10.11647/obp.0192.10.
+- *Journal of Open Humanities Data.* https://openhumanitiesdata.metajnl.com.
 
 ---
 **Previous:** [Module 7 · Reproducible Research](../07-reproducible-research/README.md) · **Next:** [Course Wrap-up](../09-wrap-up/README.md)

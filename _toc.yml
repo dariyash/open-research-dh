@@ -4,10 +4,10 @@ root: 00-introduction/welcome
 chapters:
   - file: 00-introduction/orientation
   - file: 01-open-humanities/README
-  - file: 02-open-data/README
+  - file: 02-documentation-github/README
+  - file: 03-open-data/README
     sections:
-      - file: 02-open-data/01_build_dataset
-  - file: 03-documentation-github/README
+      - file: 03-open-data/01_build_dataset
   - file: 04-documenting-ai/README
     sections:
       - file: 04-documenting-ai/02_obtain_and_filter

@@ -13,7 +13,7 @@ By the end of this module you will be able to:
 
 ## Theory, the cycle of DH research, and what gets documented
 A typical cycle: **obtain > clean/transform > analyse > visualise > interpret > document > share.** You
-have already obtained (Module 2) and filtered (Module 4) your data. Here you close the loop to an
+have already obtained (Module 3) and filtered (Module 4) your data. Here you close the loop to an
 interpretation.
 
 - **Do you need to clean?** Sometimes. Cleaning means *small, honest* tidying, consistent text, removing blank groups, standardising a date field, done *before* counting. It never means inventing or altering values. Always record what you did.
@@ -39,6 +39,12 @@ question, and one limitation (missing data, small sample, collection bias, name-
 
 ## Materials
 - Dataset sample (shipped with the course; or your own).
+
+## Recommended Reading
+- Drucker, Johanna. "Humanities Approaches to Graphical Display." *Digital Humanities Quarterly* 5, no. 1 (2011).
+- Underwood, Ted. "A Genealogy of Distant Reading." *Digital Humanities Quarterly* 11, no. 2 (2017).
+- Antonijević, Smiljana. "Digital Workflow in the Humanities and Social Sciences: A Data Ethnography." In *Anthropological Data in the Digital Age: New Possibilities – New Challenges*, edited by Jerome W. Crowder, Mike Fortun, Rachel Besara, and Lindsay Poirier. Springer, 2020. https://doi.org/10.1007/978-3-030-24925-0_4.
+- Liu, Alan, Scott Kleinman, Jeremy Douglass, Lindsay Thomas, Ashley Champagne, and Jamal Russell. "Open, Shareable, Reproducible Workflows for the Digital Humanities: The Case of the 4Humanities.org 'WhatEvery1Says' Project." Digital Humanities conference paper, 2017. https://dh2017.adho.org/abstracts/034/034.pdf.
 
 ---
 **Previous:** [Module 4 · Documenting AI](../04-documenting-ai/README.md) · **Next:** [Module 6 · Data Enhancement](../06-data-enhancement/README.md)

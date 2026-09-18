@@ -1,5 +1,8 @@
 # Module 7 · Reproducible Research
 
+## Watch
+- [Reproducibility (theory)](https://clip.place/w/iM5LJwhVTzvuP4V1MkqJG8)
+
 ## Aim
 Evaluate the reproducibility, openness, ethical implications, and potential for reuse of your research, and revise your project so someone else can run it from start to finish.
 
@@ -19,7 +22,7 @@ point of auditing.
 **TIER Protocol 4.0** (https://www.projecttier.org/tier-protocol/protocol-4-0/) is a documentation
 standard. Its idea is that a reproducible project has:
 - a **clear folder structure**,
-- **clear documentation files**: - **clear command files** (the scripts/notebooks that do all the work), and
+- **clear documentation files**, **clear command files** (the scripts/notebooks that do all the work), and
 - everything gathered into one **reproducible compendium**.
 
 A recommended layout:
@@ -55,8 +58,9 @@ you fix what they found.
 - TIER Protocol 4.0, https://www.projecttier.org/tier-protocol/protocol-4-0/
 - ARDC FAIR Data Self-Assessment Tool, https://ardc.edu.au/resource/fair-data-self-assessment-tool/
 
-## Watch
-- [Reproducibility (theory)](https://clip.place/w/iM5LJwhVTzvuP4V1MkqJG8)
+## Recommended Reading
+- Joyeux-Prunel, Béatrice. "Digital Humanities in the Era of Digital Reproducibility: Towards a Fairest and Post-Computational Framework." *International Journal of Digital Humanities* 6, no. 1 (2024): 23–43. https://doi.org/10.1007/s42803-023-00079-6.
+- Stapel, Rombert, and Ivo Zandhuis. "Linked Data for Modelling and Replicating the Knowledge Production Process in Data-Driven Humanities Research." *Digital Scholarship in the Humanities* 40, supplement 1 (January 2025): i100–i107. https://doi.org/10.1093/llc/fqae038.
 
 ---
 **Previous:** [Module 6 · Data Enhancement](../06-data-enhancement/README.md) · **Next:** [Module 8 · Open Publishing](../08-open-publishing/README.md)

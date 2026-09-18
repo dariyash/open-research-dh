@@ -1,8 +1,11 @@
 # Module 6 · Data Enhancement *(optional)*
 
+## Watch
+- [Data Enhancement: principles, resources, Wikidata](https://clip.place/w/8EtqGKMfSi5imK6UVZoYeZ)
+
 ## Aim
 Enrich a heritage dataset by linking it to **external authority data**, using **Wikidata**, the durable
-fix for the name-variation problem you met in Module 2.
+fix for the name-variation problem you met in Module 3.
 
 ## Learning outcomes
 By the end of this module you will be able to:
@@ -14,7 +17,7 @@ By the end of this module you will be able to:
  place, or organisation type) back into your dataset.
 - Document the main steps of the enhancement in your workflow.
 
-In Module 2, the *same* artist hid under many name strings (`"Vincent van Gogh"`, `"Gogh, Vincent van"`,
+In Module 3, the *same* artist hid under many name strings (`"Vincent van Gogh"`, `"Gogh, Vincent van"`,
 …). The lasting solution is to attach a **stable identifier**, a Wikidata **Q-ID**, to each entity. Two
 records that share a Q-ID are the same person, however their names are spelled. That is **authority
 control**, and it makes data linkable, comparable, and reusable.
@@ -48,8 +51,9 @@ needs internet.
 ## Materials
 - Dataset sample (from earlier modules).
 
-## Watch
-- [Data Enhancement: principles, resources, Wikidata](https://clip.place/w/8EtqGKMfSi5imK6UVZoYeZ)
+## Recommended Reading
+- Rother, Lynn, Max Koss, and Fabio Mariani. *Taking Care of History: Toward a Politics of Provenance Linked Open Data in Museums.* 19 December 2022. https://www.artic.edu/digital-publications/37/perspectives-on-data/25/taking-care-of-history-toward-a-politics-of-provenance-linked-open-data-in-museums.
+- Fagerving, Alicia. "Wikidata for Authority Control: Sharing Museum Knowledge with the World." *Digital Humanities in the Nordic and Baltic Countries Publications* 5, no. 1 (2023): 222–39. https://doi.org/10.5617/dhnbpub.10665.
 
 ---
 **Previous:** [Module 5 · Data Analysis](../05-data-analysis/README.md) · **Next:** [Module 7 · Reproducible Research](../07-reproducible-research/README.md)

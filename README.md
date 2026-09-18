@@ -44,16 +44,16 @@ with AI and learn to check it.
 
 ## Course structure
 
-Eight modules, plus an introduction and a wrap-up. Every module is an elaborate README. The hands-on
-modules add a **Jupyter Notebook** (or, for publishing, a **written tutorial**), and most modules also
-link a **companion theory video** and, where available, **presentation slides**.
+Eight modules, plus an introduction and a wrap-up. Every module is an elaborate README that opens with
+its **videos**. The hands-on modules add a **Jupyter Notebook** (or, for publishing, a **written
+tutorial**), and several modules also link **presentation slides**.
 
 | # | Module | Format |
 |---|--------|--------|
 | 0 | [Welcome](00-introduction/welcome.md) · [Orientation](00-introduction/orientation.md) | README + video |
 | 1 | [Open Humanities](01-open-humanities/README.md), principles & humanities context | README + video + slides |
-| 2 | [Open Data](02-open-data/README.md), find & assess heritage datasets | README + notebook + video + slides |
-| 3 | [Documentation & GitHub](03-documentation-github/README.md), document as you go; version control | README + video |
+| 2 | [Documenting as a Systemic Practice](02-documentation-github/README.md), document as you go; version control | README + video |
+| 3 | [Resources for the Research: Open Data](03-open-data/README.md), find & assess heritage datasets | README + notebook + video + slides |
 | 4 | [Documenting AI](04-documenting-ai/README.md), prompt, check, record AI use | README + notebook + video |
 | 5 | [Data Analysis](05-data-analysis/README.md), clean, analyse, visualise, narrate | README + notebook |
 | 6 | [Data Enhancement](06-data-enhancement/README.md) *(optional)*, enrich with Wikidata | README + notebook + video |
@@ -61,13 +61,13 @@ link a **companion theory video** and, where available, **presentation slides**.
 | 8 | [Open Publishing](08-open-publishing/README.md), publish on Zenodo; FAIR | README + tutorial + video |
 | 9 | [Course Wrap-up](09-wrap-up/README.md) | README |
 
-Videos are companion theory pieces; the practical work lives in the notebooks and the Zenodo tutorial.
+Videos open each module as theory input; the practical work lives in the notebooks and the Zenodo tutorial.
 
 ### The hands-on arc, one dataset, four notebooks
 
 The practical notebooks share a **single dataset** and run in order:
 
-**M2 [obtain](02-open-data/01_build_dataset.ipynb) > M4 [filter](04-documenting-ai/02_obtain_and_filter.ipynb) > M5 [analyse](05-data-analysis/03_data_analysis.ipynb) > M6 [enhance](06-data-enhancement/04_wikidata_enhancement.ipynb)** *(optional)*
+**M3 [obtain](03-open-data/01_build_dataset.ipynb) > M4 [filter](04-documenting-ai/02_obtain_and_filter.ipynb) > M5 [analyse](05-data-analysis/03_data_analysis.ipynb) > M6 [enhance](06-data-enhancement/04_wikidata_enhancement.ipynb)** *(optional)*
 
 Each notebook opens with a **configuration cell**, change the creator, the dataset, or the grouping
 question, or load your own CSV, without touching the code below.
@@ -76,9 +76,9 @@ question, or load your own CSV, without touching the code below.
 
 ## Course content in detail
 
-Each module combines a short written introduction, theoretical input (mostly as videos), and hands-on
-work. Videos are linked on each module page under **Watch**. You can follow the modules in order, or use
-a single module when you need support at a particular stage of your own project.
+Each module combines a short written introduction, theoretical input (mostly as videos, linked at the top
+of each module page under **Watch**), and hands-on work. You can follow the modules in order, or use a
+single module when you need support at a particular stage of your own project.
 
 ### 0 · Introduction
 Orientation to the course: what it covers, how the self-paced path works, and the learning-by-doing
@@ -96,26 +96,27 @@ The principles of open research and the humanities-specific context in which the
  [Open to Critical Interpretation (Andrea Wallace)](https://clip.place/w/iqntkKS2xQMFhzd1ggejTs)
 - **Slides:** presentation decks for both webinars (in the module folder).
 
-### 2 · Open Data
-Finding, assessing, and obtaining a cultural-heritage dataset fit for a research question.
-- **Theory:** where heritage data lives (museums, libraries and archives vs aggregators such as
- Europeana); access types (direct download, open API, API key, preview-only); fields, metadata, and
- licences; the name-variation problem that runs through the course (**authority control**).
-- **Watch:** [Open Research & Documentation: what, when, how](https://clip.place/w/fjMb5CS2WSj9jfncSNoUpM) ·
- [Data-Driven Research Questions](https://clip.place/w/pdXXe2eysAnQHy6JT42T3k)
-- **Hands-on:** [`01_build_dataset.ipynb`](02-open-data/01_build_dataset.ipynb), obtain a Europeana
- dataset across several name variants, combine and de-duplicate, and check its fitness.
-- **Reference:** [Open Heritage Data source catalogue](02-open-data/open-heritage-data-sources.md).
-
-### 3 · Documentation & GitHub
+### 2 · Documenting as a Systemic Practice in Open Research
 Documentation as a core research practice, and the version-control tools that make it possible.
 - **Theory:** document as you go (what, why, where the data and code came from, what you are unsure of);
  writing a specific, data-driven research question; GitHub for code and documentation, not raw data; the
  commit and push workflow.
-- **Watch:** [Reusing GLAM collections (Gustavo Candela)](https://clip.place/w/rVeo3U87Acns1JfXyxcxWK) ·
- [Tutorial: obtaining and building a dataset](https://clip.place/w/36p3UJ92DwaAozf4L5Q9um)
+- **Watch:** [Open Research & Documentation: what, when, how](https://clip.place/w/fjMb5CS2WSj9jfncSNoUpM) ·
+ [Data-Driven Research Questions](https://clip.place/w/pdXXe2eysAnQHy6JT42T3k)
 - **Hands-on:** a written walkthrough in the module page, create a repository, give it a clear structure,
  clone it, and make your first commit and push.
+
+### 3 · Resources for the Research: Open Data
+Finding, assessing, and obtaining a cultural-heritage dataset fit for a research question.
+- **Theory:** where heritage data lives (museums, libraries and archives vs aggregators such as
+ Europeana); access types (direct download, open API, API key, preview-only); fields, metadata, and
+ licences; the name-variation problem that runs through the course (**authority control**).
+- **Watch:** [Reusing GLAM collections (Gustavo Candela)](https://clip.place/w/rVeo3U87Acns1JfXyxcxWK) ·
+ [Tutorial: obtaining and building a dataset](https://clip.place/w/36p3UJ92DwaAozf4L5Q9um)
+- **Slides:** Gustavo Candela's presentation (in the module folder).
+- **Hands-on:** [`01_build_dataset.ipynb`](03-open-data/01_build_dataset.ipynb), obtain a Europeana
+ dataset across several name variants, combine and de-duplicate, and check its fitness.
+- **Reference:** [Open Heritage Data source catalogue](03-open-data/open-heritage-data-sources.md).
 
 ### 4 · Documenting AI
 Using AI as a deliberate, checked, and openly documented tool within the workflow.
@@ -127,7 +128,7 @@ Using AI as a deliberate, checked, and openly documented tool within the workflo
  dataset with AI-drafted code that you check, and record a documented decision (setting aside a
  reproduction index rather than deleting it silently).
 
-### 5 · Data Analysis
+### 5 · Data Analysis & Documentation
 Preparing, analysing, visualising, and interpreting heritage data honestly.
 - **Theory:** the cycle of DH research (obtain, clean/transform, analyse, visualise, interpret, document,
  share); honest cleaning versus changing data; simple, clearly labelled visuals; writing a narrative that
@@ -174,7 +175,7 @@ A recap of the full open-research arc, what the course did not cover, and the ce
 ### Prerequisites
 - A laptop (Windows, macOS, or Linux).
 - **[Anaconda Navigator](https://www.anaconda.com/products/navigator)**: Python, Jupyter Notebook, JupyterLab.
-- A free **[GitHub](https://github.com)** account (set up in Module 3).
+- A free **[GitHub](https://github.com)** account (set up in Module 2).
 - *Optional* free API keys: **[Europeana](https://pro.europeana.eu/pages/get-api-keys)** for live data
  (the notebooks also run without one, using the shipped sample). Wikidata (Module 6) needs no key.
 
@@ -185,7 +186,7 @@ git clone https://github.com/dariyash/open-research-dh.git
 cd open-research-dh
 
 # 2. Open in Jupyter (via Anaconda Navigator > JupyterLab), then run, in order:
-# 02-open-data/01_build_dataset.ipynb
+# 03-open-data/01_build_dataset.ipynb
 # 04-documenting-ai/02_obtain_and_filter.ipynb
 # 05-data-analysis/03_data_analysis.ipynb
 # 06-data-enhancement/04_wikidata_enhancement.ipynb (optional)
@@ -210,8 +211,8 @@ open-research-dh/
 - BUILD_PLAN.md what each file is + status
 - 00-introduction/ welcome · orientation · install guide
 - 01-open-humanities/ README + presentation slides (PDF)
-- 02-open-data/ README + 01_build_dataset.ipynb + source catalogue + slides (PDF)
-- 03-documentation-github/ README
+- 02-documentation-github/ README
+- 03-open-data/ README + 01_build_dataset.ipynb + source catalogue + slides (PDF)
 - 04-documenting-ai/ README + 02_obtain_and_filter.ipynb
 - 05-data-analysis/ README + 03_data_analysis.ipynb
 - 06-data-enhancement/ README + 04_wikidata_enhancement.ipynb

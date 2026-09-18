@@ -1,5 +1,8 @@
 # Open Research in the Digital Humanities
 
+## Watch
+- [Introduction to the course](https://clip.place/w/575GcSPrbMLuZxFxuzLMYs)
+
 Welcome to **Open Research in the Digital Humanities**, a self-paced course from the
 Humanities Data Science and Methodology (HDSM) group and DisLab, supported by the HERMES project. This course is about making digital humanities research more transparent, responsible, understandable, accessible, and open for reuse.
 
@@ -17,6 +20,3 @@ Each module combines short introductons to the module, theoretical input in vide
 This course is based on the concept of learning by doing. During the course, beginners can work with prepared datasets and the code included in the course. More experienced learners can follow the course path using their own datasets.
 
 Use the sidebar to move through the modules.
-
-## Introduction video
-Watch: [Introduction to the course](https://clip.place/w/575GcSPrbMLuZxFxuzLMYs)
