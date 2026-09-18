@@ -2,7 +2,7 @@
 
 ## Watch
 - [Reusing GLAM collections (Gustavo Candela)](https://clip.place/w/rVeo3U87Acns1JfXyxcxWK)
-- [Tutorial: GitHub introduction](https://clip.place/w/36p3UJ92DwaAozf4L5Q9um)
+- [Tutorial: obtaining and building a dataset](https://clip.place/w/36p3UJ92DwaAozf4L5Q9um)
 
 ## Slides
 - [Candela presentation slides](slides_Gustavo_Candela.pdf)
@@ -20,8 +20,8 @@ By the end of this module you will be able to:
 - Inspect and describe a dataset's structure (formats, fields, metadata).
 - Decide whether a dataset is suitable for a research question.
 
-## Where heritage data can be found
-Open heritage data comes from two broad kinds of sources:
+## Where heritage data lives
+Open heritage data comes from two broad kinds of source:
 
 - **Museums, libraries and archives** publish their own collections, e.g. the **MET Museum**,
  **Smithsonian**, **Rijksmuseum**.
@@ -74,4 +74,4 @@ accessed, licence, fields kept, and one sentence on fitness for your question.
 - Candela, Gustavo, María Dolores Sáez, M. Pilar Escobar Esteban, and Manuel Marco-Such. "Reusing Digital Collections from GLAM Institutions." *Journal of Information Science* 48, no. 2 (2022): 251–67. https://doi.org/10.1177/0165551520950246.
 
 ---
-**Previous:** [Module 2 · Documenting as a Systemic Practice](../02-documentation-github/README.md) · **Next:** [Module 4 · Documenting AI](../04-documenting-ai/README.md)
+**Previous:** [Module 2 · Documenting as a Systemic Practice](../02-documentation-systemic-practice/README.md) · **Next:** [Module 4 · Documenting AI](../04-documenting-ai/README.md)

@@ -52,7 +52,7 @@ tutorial**), and several modules also link **presentation slides**.
 |---|--------|--------|
 | 0 | [Welcome](00-introduction/welcome.md) · [Orientation](00-introduction/orientation.md) | README + video |
 | 1 | [Open Humanities](01-open-humanities/README.md), principles & humanities context | README + video + slides |
-| 2 | [Documenting as a Systemic Practice](02-documentation-github/README.md), document as you go; version control | README + video |
+| 2 | [Documenting as a Systemic Practice](02-documentation-systemic-practice/README.md), document as you go; version control | README + video |
 | 3 | [Resources for the Research: Open Data](03-open-data/README.md), find & assess heritage datasets | README + notebook + video + slides |
 | 4 | [Documenting AI](04-documenting-ai/README.md), prompt, check, record AI use | README + notebook + video |
 | 5 | [Data Analysis](05-data-analysis/README.md), clean, analyse, visualise, narrate | README + notebook |
@@ -73,39 +73,6 @@ Each notebook opens with a **configuration cell**, change the creator, the datas
 question, or load your own CSV, without touching the code below.
 
 ---
-
-## Getting started
-
-### Prerequisites
-- A laptop (Windows, macOS, or Linux).
-- **[Anaconda Navigator](https://www.anaconda.com/products/navigator)**: Python, Jupyter Notebook, JupyterLab.
-- A free **[GitHub](https://github.com)** account (set up in Module 2).
-- *Optional* free API keys: **[Europeana](https://pro.europeana.eu/pages/get-api-keys)** for live data
- (the notebooks also run without one, using the shipped sample). Wikidata (Module 6) needs no key.
-
-### Run the notebooks
-```bash
-# 1. Get the course
-git clone https://github.com/dariyash/open-research-dh.git
-cd open-research-dh
-
-# 2. Open in Jupyter (via Anaconda Navigator > JupyterLab), then run, in order:
-# 03-open-data/01_build_dataset.ipynb
-# 04-documenting-ai/02_obtain_and_filter.ipynb
-# 05-data-analysis/03_data_analysis.ipynb
-# 06-data-enhancement/04_wikidata_enhancement.ipynb (optional)
-```
-Each notebook needs only `pandas`, `matplotlib`, and `requests` (all included with Anaconda).
-
-### Build the course as a website (Jupyter Book)
-```bash
-pip install jupyter-book
-jupyter-book build .
-# open _build/html/index.html
-```
-
----
-
 
 ## Course content in detail
 
@@ -203,6 +170,38 @@ A recap of the full open-research arc, what the course did not cover, and the ce
 
 ---
 
+## Getting started
+
+### Prerequisites
+- A laptop (Windows, macOS, or Linux).
+- **[Anaconda Navigator](https://www.anaconda.com/products/navigator)**: Python, Jupyter Notebook, JupyterLab.
+- A free **[GitHub](https://github.com)** account (set up in Module 2).
+- *Optional* free API keys: **[Europeana](https://pro.europeana.eu/pages/get-api-keys)** for live data
+ (the notebooks also run without one, using the shipped sample). Wikidata (Module 6) needs no key.
+
+### Run the notebooks
+```bash
+# 1. Get the course
+git clone https://github.com/dariyash/open-research-dh.git
+cd open-research-dh
+
+# 2. Open in Jupyter (via Anaconda Navigator > JupyterLab), then run, in order:
+# 03-open-data/01_build_dataset.ipynb
+# 04-documenting-ai/02_obtain_and_filter.ipynb
+# 05-data-analysis/03_data_analysis.ipynb
+# 06-data-enhancement/04_wikidata_enhancement.ipynb (optional)
+```
+Each notebook needs only `pandas`, `matplotlib`, and `requests` (all included with Anaconda).
+
+### Build the course as a website (Jupyter Book)
+```bash
+pip install jupyter-book
+jupyter-book build .
+# open _build/html/index.html
+```
+
+---
+
 ## Repository layout
 
 ```
@@ -212,7 +211,7 @@ open-research-dh/
 - BUILD_PLAN.md what each file is + status
 - 00-introduction/ welcome · orientation · install guide
 - 01-open-humanities/ README + presentation slides (PDF)
-- 02-documentation-github/ README
+- 02-documentation-systemic-practice/ README
 - 03-open-data/ README + 01_build_dataset.ipynb + source catalogue + slides (PDF)
 - 04-documenting-ai/ README + 02_obtain_and_filter.ipynb
 - 05-data-analysis/ README + 03_data_analysis.ipynb

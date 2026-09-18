@@ -4,7 +4,7 @@ root: 00-introduction/welcome
 chapters:
   - file: 00-introduction/orientation
   - file: 01-open-humanities/README
-  - file: 02-documentation-github/README
+  - file: 02-documentation-systemic-practice/README
   - file: 03-open-data/README
     sections:
       - file: 03-open-data/01_build_dataset

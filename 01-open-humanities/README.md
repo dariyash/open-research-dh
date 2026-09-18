@@ -63,4 +63,4 @@ Watch both webinars and note, in a few sentences each:
 - UNESCO. *Recommendation on Open Science.* Paris: UNESCO. https://www.unesco.org/en/open-science/about.
 
 ---
-**Previous:** [Orientation](../00-introduction/orientation.md) · **Next:** [Module 2 · Documenting as a Systemic Practice](../02-documentation-github/README.md)
+**Previous:** [Orientation](../00-introduction/orientation.md) · **Next:** [Module 2 · Documenting as a Systemic Practice](../02-documentation-systemic-practice/README.md)
